@@ -5,7 +5,7 @@
 [![Manim](https://img.shields.io/badge/Manim-0.18%2B-purple)](https://www.manim.community)
 [![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-orange)](https://groq.com)
 
-Aplicação **Streamlit** que conecta a API da **Groq** (modelo `llama-3.3-70b-versatile`) para gerar animações matemáticas com a biblioteca **Manim**. (Pode ser outra)  O usuário descreve a cena em linguagem natural, a IA retorna o código Python executável e o sistema renderiza localmente o vídeo com qualidade ajustável (480p a 4K).
+Aplicação **Streamlit** que conecta a API da **Groq** (modelo `llama-3.3-70b-versatile`) - (Pode ser outro), para gerar animações matemáticas com a biblioteca **Manim**. O usuário descreve a cena em linguagem natural, a IA retorna o código Python executável e o sistema renderiza localmente o vídeo com qualidade ajustável (480p a 4K).
 
 * * *
 
