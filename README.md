@@ -1,11 +1,11 @@
-# 🎬 Manim AI Generator – Animações Matemáticas com Groq
+# 🎬 Manim AI Generator – Animações Matemáticas - Formulas, Equações, +
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red)](https://streamlit.io)
 [![Manim](https://img.shields.io/badge/Manim-0.18%2B-purple)](https://www.manim.community)
 [![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-orange)](https://groq.com)
 
-Aplicação **Streamlit** que conecta a API da **Groq** (modelo `llama-3.3-70b-versatile`) para gerar animações matemáticas com a biblioteca **Manim**.  O usuário descreve a cena em linguagem natural, a IA retorna o código Python executável e o sistema renderiza localmente o vídeo com qualidade ajustável (480p a 4K).
+Aplicação **Streamlit** que conecta a API da **Groq** (modelo `llama-3.3-70b-versatile`) para gerar animações matemáticas com a biblioteca **Manim**. (Pode ser outra)  O usuário descreve a cena em linguagem natural, a IA retorna o código Python executável e o sistema renderiza localmente o vídeo com qualidade ajustável (480p a 4K).
 
 * * *
 
@@ -70,7 +70,3 @@ A IA responderá com o código Manim gerado.
 Clique em "Renderizar" para executar o Manim e gerar o vídeo.
 
 O vídeo será exibido na tela e você poderá baixar o código-fonte.
-
-
-### 📄 Licença
-Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE para mais detalhes.
